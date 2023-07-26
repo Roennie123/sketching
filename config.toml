@@ -1,0 +1,4 @@
+baseURL = 'https://roennie123.github.io/sketching/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'gokarna-main'
